@@ -1,6 +1,6 @@
 # OUTDOOR_RACE--SMART_CAR_RACE
 
-This project is mainly created for 19th smart car race -- outdoor race.
+This project is mainly created for 19th SMART CAR RACE -- outdoor race.
 
 The complete codes won't be provided since the most of it was provided by supplier, which we do a little changes on encoder and imu.Codes in src folder is for competition mission.
 
