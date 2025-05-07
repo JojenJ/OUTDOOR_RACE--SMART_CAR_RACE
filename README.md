@@ -39,7 +39,7 @@ The car completed all tasks successfully on the competition track and achieved:
 
 ## 📸 Demo & Results
 
-![Demo GIF](media/outdoor_race_demo.gif)
+![Demo GIF](example.gif)
 
 > 🔗 *For more project insights, contact us or check the logs inside the zip.*
 
