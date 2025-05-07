@@ -41,5 +41,7 @@ The car completed all tasks successfully on the competition track and achieved:
 
 ![Demo GIF](example.gif)
 
+![Demo GIF](debugging.gif)
+
 > 🔗 *For more project insights, contact us or check the logs inside the zip.*
 
