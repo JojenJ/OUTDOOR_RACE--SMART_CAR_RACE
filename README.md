@@ -1,14 +1,45 @@
-# OUTDOOR_RACE--SMART_CAR_RACE
+# 🏁 OUTDOOR_RACE -- SMART_CAR_RACE
 
-This project is mainly created for 19th SMART CAR RACE -- outdoor race.
+This project was developed for the **19th SMART CAR RACE – Outdoor Category**.
 
-The complete codes won't be provided since the most of it was provided by supplier, which we do a little changes on encoder and imu. Codes in .zip is for competition mission, embodying our work.
+> ⚠️ **Note**: The complete source code is not fully provided due to supplier confidentiality. We only modified the encoder and IMU modules. The included `.zip` file contains our competition-specific implementation, reflecting our contributions.
 
-Codes
-mainly written in python, and was all intergrated into one file only for dealing with the problem of cpu occupation, that can't be effectively solve in the conditon of multiple files.
+---
 
-which involes slam--gmapping, path planning, car controller--stanley, rador message processing, CV--yolov5, ROS
+## 📦 Project Overview
 
+This autonomous driving project integrates all key modules into a single Python script due to CPU resource constraints that prevented effective multiprocessing across files.
 
-the ultimate test of this project is on the competition, where the car finished the all the mission and sucessfully ran on the track, clocking 37s, that rank the top ten on the nation final.
-the maximum speed we tested is 35s, which mainly restricted by slam stability.
+### 🔧 Features Included:
+- 🧭 SLAM: GMapping-based mapping and localization
+- 🛣️ Path Planning: Custom implementation
+- 🚗 Vehicle Control: Stanley Controller
+- 📡 Radar Data Processing: Real-time obstacle awareness
+- 🎯 Computer Vision: Object detection using YOLOv5
+- 🔄 Framework: Built entirely on ROS
+
+---
+
+## 🏆 Competition Results
+
+The car completed all tasks successfully on the competition track and achieved:
+
+- ✅ **Official Run Time**: 37 seconds  
+- 🚀 **Max Test Speed**: 35 seconds (limited by SLAM stability)  
+- 📊 **Rank**: Top 10 nationally in the final round
+
+---
+
+## 📁 Contents
+
+- `competition_code.zip`: Packaged codebase used during the final competition
+- `README.md`: Project description and structure
+
+---
+
+## 📸 Demo & Results
+
+![Demo GIF](media/outdoor_race_demo.gif)
+
+> 🔗 *For more project insights, contact us or check the logs inside the zip.*
+
