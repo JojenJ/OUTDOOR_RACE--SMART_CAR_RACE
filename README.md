@@ -2,7 +2,7 @@
 
 This project is mainly created for 19th SMART CAR RACE -- outdoor race.
 
-The complete codes won't be provided since the most of it was provided by supplier, which we do a little changes on encoder and imu. Codes in src folder is for competition mission, embodying our work.
+The complete codes won't be provided since the most of it was provided by supplier, which we do a little changes on encoder and imu. Codes in .zip is for competition mission, embodying our work.
 
 Codes
 mainly written in python, and was all intergrated into one file only for dealing with the problem of cpu occupation, that can't be effectively solve in the conditon of multiple files.
